@@ -1,12 +1,17 @@
-<!-- PROFILE BANNER -->
+<!-- ===================== BANNER ===================== -->
+
 <p align="center">
-  <img src="./github-banner.png" alt="Akanksha Godse GitHub Banner" width="100%">
+  <img src="./banner.png" alt="Akanksha Godse GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Akanksha Godse</h1>
+<!-- ===================== INTRO ===================== -->
+
+<h1 align="center">
+  Hi 👋, I'm Akanksha Godse
+</h1>
 
 <h3 align="center">
-B.Tech Student | Software Developer | DSA Enthusiast
+  B.Tech Student | Software Developer | DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -15,166 +20,285 @@ B.Tech Student | Software Developer | DSA Enthusiast
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
+
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech student at **MKSSS's Cummins College of Engineering for Women, Pune**
-- 💻 Interested in **Software Development and Problem Solving**
-- 🧠 Currently strengthening my **Data Structures & Algorithms** skills using Java
-- 🌐 Exploring **Full Stack Web Development**
-- 🤖 Interested in **Generative AI**
-- 🚀 Passionate about building practical solutions to real-world problems
-- 🌱 Continuously learning new technologies and improving my technical skills
+- 💻 Interested in **Software Development, Data Structures & Algorithms, and Full Stack Web Development**
+- 🧩 Enjoy solving programming problems and building practical applications
+- 🤖 Exploring **Generative AI** and AI-powered development tools
+- 🌱 Continuously improving my programming and problem-solving skills
+- 🚀 Interested in building projects that solve real-world problems
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-### 🧠 Core Skills
+### Core Concepts
 
 <p>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge">
 </p>
 
-### 🔧 Tools
+### Tools & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-### 🤖 AI Tools
+### AI Tools
 
-`ChatGPT` `Claude AI` `Gemini` `Perplexity`
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-AI-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge">
+</p>
 
 ---
 
-## 📚 Currently Learning
+<!-- ===================== PROJECTS ===================== -->
 
-- 🧠 Data Structures & Algorithms
-- ☕ Advanced Java
-- 💡 Problem Solving
-- 🌐 Full Stack Web Development
-- 🤖 Generative AI
-- 🗄️ Database Management
-- 💻 Software Development Practices
+## 🚀 Featured Projects
 
----
+### 1. 🚀 FlowPilot – Smart Business Workflow & Task Management Platform
 
-# 🚀 Projects
+A centralized workflow and task management platform designed to help small businesses organize their daily operations, teams, projects, and tasks in one place.
 
-## 1. 🚀 FlowPilot – Smart Business Workflow & Task Management Platform
+**Key Features:**
 
-A centralized workflow and task management platform designed to help small businesses organize daily work, manage tasks, and improve team productivity.
+- 📊 Interactive business dashboard
+- ✅ Task creation, assignment, and tracking
+- 🎯 Priority and deadline management
+- 📋 Kanban and list-based task views
+- 👥 Team and workload management
+- 📁 Project management
+- 📅 Calendar and deadline tracking
+- 📈 Productivity insights and analytics
+- 🔔 Notifications and activity tracking
+- 🔎 Search and quick actions
+- 🌙 Dark mode
+- 📱 Responsive modern UI/UX
 
-### ✨ Features
-
-- 📊 Interactive Business Dashboard
-- ✅ Task Creation, Assignment & Tracking
-- 🎯 Priority & Deadline Management
-- 📋 Kanban & List-Based Task Views
-- 👥 Team & Workload Management
-- 📁 Project Management
-- 📅 Calendar & Deadline Tracking
-- 📈 Productivity Insights & Analytics
-- 🔔 Notifications & Activity Tracking
-- 🔎 Search & Quick Actions
-- 🌙 Dark Mode
-- 📱 Responsive Modern UI/UX
-
-### 🛠️ Tech Stack
+**Tech Stack:**
 
 `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `Docker`
 
 🔗 **Repository:**  
-[View FlowPilot](https://github.com/akankshagodse/SmallBiz-Flow-Flask)
+https://github.com/akankshagodse/SmallBiz-Flow-Flask
 
 ---
 
-## 2. 🎵 Music Player Manager – DSA Based Application
+### 2. 🎵 Music Player Manager – DSA Based Application
 
-A console-based music player application developed in **Java using Data Structures and Algorithms**.
+A Java-based console application that demonstrates the practical use of different data structures to manage music and playlists.
 
-### 🧠 Data Structures Used
+**Data Structures Used:**
 
-- ArrayList
-- Stack
-- Queue
-- HashMap
-- HashSet
+- 🔗 Doubly Linked List
+- 📚 Stack
+- 🚶 Queue
+- 🗂️ ArrayList
+- 🔑 HashMap
+- 🔍 HashSet
 
-### ✨ Features
+**Features:**
 
-- 🔎 Song Search
-- 🎶 Queue Management
-- 🔀 Shuffle
-- ❤️ Favorites
-- 🕘 Recently Played Songs
-
-### 🛠️ Tech Stack
-
-`Java` `DSA` `ArrayList` `Stack` `Queue` `HashMap` `HashSet`
+- 🎵 Playlist management
+- 🔎 Song search
+- ⏭️ Playlist navigation
+- 📥 Music queue
+- ❤️ Favorite songs
+- 🔄 Shuffle functionality
+- 🕘 Recently played songs
 
 🔗 **Repository:**  
-[View Music Player Manager](https://github.com/akankshagodse/MusicPlayerManager)
+https://github.com/akankshagodse/MusicPlayerManager
 
 ---
 
-## 3. 🌱 Empowerment Hub – Student Learning Platform
+### 3. 📚 Empowerment Hub – Student Learning & Motivation Platform
 
-A responsive student learning and motivation platform developed using **HTML, CSS, Bootstrap, and JavaScript**.
+A responsive student-focused web platform that provides useful academic resources and motivational content in one place.
 
-### ✨ Features
+**Features:**
 
-- 📚 Study Resources
-- 💡 Motivational Content
-- 📝 Previous Year Question Papers
-- 📱 Responsive User Interface
-- 🧭 Easy Navigation
+- 📖 Study resources
+- 💡 Motivational content
+- 📝 Previous-year question papers
+- 📱 Responsive user interface
 
-### 🛠️ Tech Stack
+**Tech Stack:**
 
 `HTML` `CSS` `Bootstrap` `JavaScript`
 
 ---
 
-# 🧠 DSA Learning Journey
+<!-- ===================== DSA ===================== -->
 
-I'm maintaining a dedicated repository for my **Data Structures & Algorithms practice using Java**.
+## 🧠 Data Structures & Algorithms
 
-```text
-📁 Data Structures & Algorithms
-│
-├── Arrays
-├── Linked List
-├── Doubly Linked List
-├── Stack
-├── Queue
-├── Sorting
-├── Searching
-├── Recursion
-├── Trees
-├── Binary Search Tree
-├── Graphs
-└── Problem Solving
+I am actively learning and practicing **Data Structures and Algorithms using Java**.
+
+My practice includes:
+
+- Arrays
+- Strings
+- Linked Lists
+- Doubly Linked Lists
+- Stacks
+- Queues
+- Searching
+- Sorting
+- Trees
+- Binary Search
+- Problem Solving
+
+📌 **DSA Repository:**  
+https://github.com/akankshagodse/Data-Structures-and-Algorithms
+
+---
+
+<!-- ===================== INTERNSHIP ===================== -->
+
+## 💼 Internship Experience
+
+### Web Development Intern  
+**Arcelor Technology Private Limited**  
+*June 2024 – July 2024*
+
+During my internship, I worked on:
+
+- Developed responsive web pages using **HTML, CSS, Bootstrap, and JavaScript**
+- Worked on UI and functionality improvements
+- Helped identify and resolve interface-related issues
+- Collaborated on web features and performance improvements
+- Gained experience with frontend development and real-world development workflows
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+
+## 🎓 Education
+
+### MKSSS's Cummins College of Engineering for Women, Pune
+**Bachelor of Technology**  
+2025 – 2028  
+**Current CGPA: 8.3**
+
+### MVPS's Rajarshi Shahu Maharaj Polytechnic, Nashik
+**Diploma in Engineering – MSBTE**  
+2022 – 2025  
+**Score: 93.31%**
+
+### Dr. Gujar Subhash English Medium High School, Nashik
+**SSC**  
+2010 – 2022  
+**Score: 90.20%**
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🌱 What I'm Working On
+
+- 💻 Strengthening my **Java programming skills**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🌐 Building **Full Stack Web Development projects**
+- 🤖 Exploring **Generative AI**
+- 🚀 Building practical projects and improving problem-solving skills
+
+---
+
+<!-- ===================== GOALS ===================== -->
+
+## 🎯 My Goals
+
+- Become a strong software developer
+- Improve problem-solving and DSA skills
+- Build meaningful real-world applications
+- Learn modern software development technologies
+- Contribute to open-source projects
+- Continuously learn and grow as a developer
+
+---
+
+<!-- ===================== BEYOND CODING ===================== -->
+
+## 🎨 Beyond Coding
+
+When I'm not coding, I enjoy:
+
+- 🏏 Sports
+- 🎨 Drawing
+- 📷 Nature Photography
+- 💡 Exploring new technologies
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akankshagodse&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshagodse&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akanksha-godse-503296260">
+  <img src="https://img.shields.io/badge/LinkedIn-Akanksha%20Godse-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:akanksha.godse@cumminscollege.in">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/akankshagodse">
+  <img src="https://img.shields.io/badge/GitHub-akankshagodse-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  ✨ Learning. Building. Solving. Growing. ✨
+</h3>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i> 👋
+</p>
