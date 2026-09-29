@@ -264,13 +264,25 @@ When I'm not coding, I enjoy:
 
 <!-- ===================== GITHUB STATS ===================== -->
 
+---
+
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akankshagodse&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshagodse&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <a href="https://github.com/akankshagodse">
+    <img src="https://img.shields.io/badge/GitHub-akankshagodse-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
+<p align="center">
+  💻 Building projects • 🧠 Practicing DSA • 🚀 Learning new technologies
+</p>
+
+<p align="center">
+  <a href="https://github.com/akankshagodse?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 ---
 
 <!-- ===================== CONNECT ===================== -->
