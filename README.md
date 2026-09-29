@@ -264,8 +264,6 @@ When I'm not coding, I enjoy:
 
 <!-- ===================== GITHUB STATS ===================== -->
 
----
-
 ## 📊 GitHub
 
 <p align="center">
