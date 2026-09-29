@@ -281,7 +281,8 @@ When I'm not coding, I enjoy:
     <img src="https://img.shields.io/badge/View%20My%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
----
+
+
 
 <!-- ===================== CONNECT ===================== -->
 
